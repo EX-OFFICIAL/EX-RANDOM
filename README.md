@@ -31,12 +31,6 @@
 
 - `git clone https://github.com/Mr3x1/EX-RANDOM`
 
-
-
-# Run Script
-
-
-
 - `cd EX-RANDOM`
 
 - `python EX_RANDOM.py`
